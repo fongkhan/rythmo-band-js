@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<detx copyright="Chinkel S.A., 2007-2024">
+
+  <header>
+    <cappella version="3.7.0"/>
+    <title>Kyoukai no kanata: Beyond the boundary</title>
+    <title2>L'ombre par delà l'horizon</title2>
+    <episode number="1"/>
+    <detector firstname="Alexis" name="Vuadelle"/>
+    <first-author firstname="Clothilde" name="D'urzo"/>
+    <videofile timestamp="01:00:00:00">Z:\Pro\Doublage\Kyoukai no kanata\04 - video\Kyoukai no Kanata - 01 - video.avi</videofile>
+    <audiofile>Z:\Pro\Doublage\Kyoukai no kanata\03 - Audio Instrumental\1_Kyoukai no Kanata - 01 - Audio_(Instrumental).wav</audiofile>
+    <last_position timecode="01:13:35:23" track="1"/>
+  </header>
+
+  <roles>
+    <role color="#000000" description="" gender="male" id="akihito" name="Akihito">
+      <image>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</image>
+    </role>
+    <role color="#000000" description="" id="camarade_akihito" name="Camarade Akihito"/>
+    <role color="#000000" description="" gender="female" id="mirai" name="Mirai">
+      <image>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</image>
+    </role>
+    <role color="#000000" description="" gender="female" id="mitsuki" name="Mitsuki">
+      <image>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</image>
+    </role>
+    <role color="#000000" description="" gender="female" id="serveuse" name="Serveuse"/>
+    <role color="#000000" description="" gender="female" id="shizuku" name="Shizuku"/>
+    <role color="#000000" description="" gender="male" id="vendeur" name="Vendeur"/>
+    <role color="#000000" description="" gender="female" id="voix_etudiante" name="voix étudiante"/>
+  </roles>
+
+  <body>
+    <loop number="1" timecode="01:00:00:00"/>
+    <shot timecode="01:00:05:01"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:05:14" type="in_open"/>
+      <text>sucide</text>
+      <lipsync timecode="01:00:06:05" type="out_open"/>
+    </line>
+    <shot timecode="01:00:06:08"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:07:22" type="in_open"/>
+      <text>Nom masculin: "Acte de se donner volontairement la mort", comme le mentionne le dictionnaire.</text>
+      <lipsync timecode="01:00:12:16" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:13:11" type="in_open"/>
+      <text>C'est quelque chose</text>
+      <lipsync timecode="01:00:14:19" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:15:11" type="neutral"/>
+      <text>que je ne tenterai sûrement jamais.</text>
+      <lipsync timecode="01:00:17:05" type="out_open"/>
+    </line>
+    <shot timecode="01:00:18:22"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:19:09" type="in_open"/>
+      <text>Non pas pour une question de morale,</text>
+      <lipsync timecode="01:00:21:15" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:22:13" type="neutral"/>
+      <text>mais pour une raisonnn -</text>
+      <lipsync timecode="01:00:24:03" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:24:10" type="neutral"/>
+      <text>bien plus essentielle...</text>
+      <lipsync timecode="01:00:25:22" type="out_open"/>
+    </line>
+    <shot timecode="01:00:20:18"/>
+    <shot timecode="01:00:23:07"/>
+    <shot timecode="01:00:27:08"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:27:13" type="in_open"/>
+      <text>Néanmoins, nous en reparlerons plus tard.</text>
+      <lipsync timecode="01:00:29:10" type="out_open"/>
+    </line>
+    <shot timecode="01:00:30:00"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:30:04" type="in_open"/>
+      <text>Car cette fille tente de se donner volontairement la mort !</text>
+      <lipsync timecode="01:00:32:18" type="out_open"/>
+    </line>
+    <shot timecode="01:00:33:07"/>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:00:33:11" type="in_open"/>
+      <text>(réac_____)</text>
+      <lipsync timecode="01:00:33:22" type="out_open"/>
+    </line>
+    <shot timecode="01:00:33:23"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:34:10" type="in_open"/>
+      <text>Son ruban outremer de nouvelle élève qui flotte au vent.</text>
+      <lipsync timecode="01:00:37:22" type="out_open"/>
+    </line>
+    <shot timecode="01:00:36:06"/>
+    <shot timecode="01:00:38:07"/>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:00:38:11" type="in_open"/>
+      <text>(réac)</text>
+      <lipsync timecode="01:00:38:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:38:22" type="in_open"/>
+      <text>Ici, la marche du récit propose deux grandes options.</text>
+      <lipsync timecode="01:00:42:10" type="out_open"/>
+    </line>
+    <shot timecode="01:00:42:17"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:43:02" type="in_open"/>
+      <text>La première :</text>
+      <lipsync timecode="01:00:44:02" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:44:11" type="neutral"/>
+      <text>le courageux héros agit faisant progresser l'histoire.</text>
+      <lipsync timecode="01:00:48:08" type="out_open"/>
+    </line>
+    <shot timecode="01:00:48:10"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:48:17" type="in_open"/>
+      <text>La seconde :</text>
+      <lipsync timecode="01:00:49:14" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:49:24" type="neutral"/>
+      <text>le héros laisse le récit se dérouler,</text>
+      <lipsync timecode="01:00:52:13" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:00:52:20" type="neutral"/>
+      <text>passivement.</text>
+      <lipsync timecode="01:00:53:22" type="out_open"/>
+    </line>
+    <shot timecode="01:00:53:22"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:00:54:13" type="in_open"/>
+      <text>Ordinairement adepte de la seconde, j'ai alors choisi la première, sans trop savoir pourquoi.</text>
+      <lipsync timecode="01:01:00:01" type="out_open"/>
+    </line>
+    <shot timecode="01:00:57:11"/>
+    <shot timecode="01:01:00:19"/>
+    <shot timecode="01:01:01:15"/>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:01:01:15" type="in_open"/>
+      <text>(effort)</text>
+      <lipsync timecode="01:01:02:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:02:01" type="in_open"/>
+      <text>Ah, Attends ...</text>
+      <lipsync timecode="01:01:03:04" type="out_open"/>
+    </line>
+    <shot timecode="01:01:02:11"/>
+    <shot timecode="01:01:03:11"/>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:01:03:13" type="in_open"/>
+      <text>(effort_______________________)</text>
+      <lipsync timecode="01:01:06:03" type="out_open"/>
+    </line>
+    <shot timecode="01:01:07:16"/>
+    <shot timecode="01:01:08:03"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:08:12" type="in_open"/>
+      <text>Je tairai les premiers mots employés...</text>
+      <lipsync timecode="01:01:11:07" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:12:03" type="in_open"/>
+      <text>Quoi qu'il en soit,tes lunettes te vont trop bien</text>
+      <lipsync timecode="01:01:15:04" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:01:15:18" type="neutral"/>
+      <text>pour vouloir mouriiir !</text>
+      <lipsync timecode="01:01:17:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:17:18" type="in_open"/>
+      <text>Lui Déclarais-je sans réfléchir.</text>
+      <lipsync timecode="01:01:20:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:20:19" type="in_open"/>
+      <text>Puis, j'ajoutai ces mots en hurlant de tout mon cœur...</text>
+      <lipsync timecode="01:01:24:05" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:25:21" type="in_open"/>
+      <text>En vrai, j'adore les lunettes !</text>
+      <lipsync timecode="01:01:28:02" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:01:30:00" type="in_open"/>
+      <text>Que c'est vexant.</text>
+      <lipsync timecode="01:01:31:06" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:01:31:22" type="in_open"/>
+      <text>ah___</text>
+      <lipsync timecode="01:01:32:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:41:11" type="in_open"/>
+      <text>Tu...</text>
+      <lipsync timecode="01:01:41:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:01:41:24" type="in_open"/>
+      <text>(réac_____________________________________________________)</text>
+      <lipsync timecode="01:01:46:19" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:47:22" type="in_open"/>
+      <text>(respire avec souffrance_____)</text>
+      <lipsync timecode="01:01:49:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:01:51:12" type="in_open"/>
+      <text>Tu es tombé sur la mauvaise personne.</text>
+      <lipsync timecode="01:01:54:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:01:57:14" type="in_open"/>
+      <text>Pour commencer...</text>
+      <lipsync timecode="01:01:58:18" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:01:59:00" type="neutral"/>
+      <text>pourrais-tu faire</text>
+      <lipsync timecode="01:02:00:08" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:02:01:03" type="neutral"/>
+      <text>quelque chose pour ça ?</text>
+      <lipsync timecode="01:02:02:15" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:02:03:14" type="neutral"/>
+      <text>S'il te plaît...</text>
+      <lipsync timecode="01:02:04:17" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:02:06:16" type="in_open"/>
+      <text>Tu ...</text>
+      <lipsync timecode="01:02:07:07" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:02:08:10" type="neutral"/>
+      <text>Qui est-tu au juste ?</text>
+      <lipsync timecode="01:02:09:23" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:02:10:12" type="in_open"/>
+      <text>C'est plutôt à moi de te demander ça...</text>
+      <lipsync timecode="01:02:13:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:02:14:13" type="in_open"/>
+      <text>C'est ainsi que Mirai et moi nous rencontrâmes. Aucune autre histoire ne pourrait exister dans ce monde</text>
+      <lipsync timecode="01:02:21:12" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:02:23:00" type="neutral"/>
+      <text>si notre relation s'était limitée à cet instant.</text>
+      <lipsync timecode="01:02:26:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:02:29:12" type="in_open"/>
+      <text>Dis ... ? Tu voudrais bien mettre ces lunettes ?</text>
+      <lipsync timecode="01:02:32:00" type="out_open"/>
+    </line>
+    <loop number="2" timecode="01:02:32:10"/>
+    <loop number="3" timecode="01:04:03:08"/>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:04:04:12" type="in_open"/>
+      <text>Un cadavre démembré...</text>
+      <lipsync timecode="01:04:05:23" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:04:06:11" type="in_open"/>
+      <text>Un homicide cruel ne suffit pas à susciter l'intérêt du lecteur, tu ne crois pas ?</text>
+      <lipsync timecode="01:04:12:03" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:04:12:19" type="in_open"/>
+      <text>Et quel genre d'homicide conviendrait ?</text>
+      <lipsync timecode="01:04:14:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:04:15:06" type="in_open"/>
+      <text>Le plus important pour le lecteur, c'est l'acte et le mobile.</text>
+      <lipsync timecode="01:04:19:08" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:19:19" type="neutral"/>
+      <text>Ces démembrements gratuits me dégoutes au plus haut point.</text>
+      <lipsync timecode="01:04:24:03" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:25:13" type="neutral"/>
+      <text>Ça ira comme ça ?</text>
+      <lipsync timecode="01:04:26:10" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:04:26:19" type="in_open"/>
+      <text>Oui,</text>
+      <lipsync timecode="01:04:27:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:27:08" type="neutral"/>
+      <text>c'est bon.</text>
+      <lipsync timecode="01:04:28:03" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:04:32:16" type="in_open"/>
+      <text>Akihito.</text>
+      <lipsync timecode="01:04:33:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:34:02" type="neutral"/>
+      <text>Les anciens membres ont mis toute leur âme dans ces torchons,</text>
+      <lipsync timecode="01:04:37:18" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:38:03" type="neutral"/>
+      <text>ne les traite pas ainsi.</text>
+      <lipsync timecode="01:04:39:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:04:40:05" type="in_open"/>
+      <text>Je me demande où est le respect dans cette phrase...</text>
+      <lipsync timecode="01:04:43:08" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:04:43:08" type="in_open"/>
+      <text>(étirement) Je n'y peux rien.</text>
+      <lipsync timecode="01:04:45:08" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:46:01" type="neutral"/>
+      <text>C'est toi qui es allé dire au responsable du club que le prochain numéro</text>
+      <lipsync timecode="01:04:50:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:50:14" type="neutral"/>
+      <text>serait le 150e.</text>
+      <lipsync timecode="01:04:51:16" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:04:53:00" type="neutral"/>
+      <text>En l'état actuel du club, cette demande de numéro spécial était plutôt prévisible.</text>
+      <lipsync timecode="01:04:58:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:04:58:18" type="in_open"/>
+      <text>C'est bien toi qui m'as dit d'aller l'voir, non ?</text>
+      <lipsync timecode="01:05:01:14" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:05:01:16" type="in_open"/>
+      <text>Et ça ?</text>
+      <lipsync timecode="01:05:01:24" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:05:03:07" type="neutral"/>
+      <text>Un polar à la conclusion scientifique bâclée et au mobile mince.</text>
+      <lipsync timecode="01:05:07:16" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:08:04" type="in_open"/>
+      <text>Vu la critique que tu en fais, on peut déjà l'exclure ...</text>
+      <lipsync timecode="01:05:10:18" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:05:11:20" type="in_open"/>
+      <text>Ça, c'est un conte, mais c'était plutôt intéressant.</text>
+      <lipsync timecode="01:05:14:05" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:14:13" type="in_open"/>
+      <text>Le titre ?</text>
+      <lipsync timecode="01:05:15:08" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:05:16:01" type="in_open"/>
+      <text>"Sans mon chaperon rouge"</text>
+      <lipsync timecode="01:05:17:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:18:13" type="in_open"/>
+      <text>De qui est-ce qu'on parle ?</text>
+      <lipsync timecode="01:05:20:02" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:05:23:07" type="in_open"/>
+      <text>C'est la fameuse Mirai ?</text>
+      <lipsync timecode="01:05:24:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:24:21" type="in_open"/>
+      <text>(soupir)</text>
+      <lipsync timecode="01:05:25:21" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:05:26:05" type="neutral"/>
+      <text>Probablement</text>
+      <lipsync timecode="01:05:27:07" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:05:28:17" type="in_open"/>
+      <text>Tu comptes me refiler le choix des œuvres, c'est ça ?</text>
+      <lipsync timecode="01:05:31:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:31:24" type="in_open"/>
+      <text>Je reviens tout de suite.</text>
+      <lipsync timecode="01:05:33:08" type="out_open"/>
+    </line>
+    <loop number="4" timecode="01:05:34:02"/>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:05:50:02" type="in_open"/>
+      <text>Aïe... Aïe... Aïe...</text>
+      <lipsync timecode="01:05:52:15" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:05:52:13" type="in_open"/>
+      <text>Tiens ? Que fais-tu ici, Mirai ?</text>
+      <lipsync timecode="01:05:56:00" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:02:04" type="in_open"/>
+      <text>Oh ! Quel hasard !</text>
+      <lipsync timecode="01:06:04:05" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:04:06" type="in_open"/>
+      <text>En effet...</text>
+      <lipsync timecode="01:06:04:21" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:06:05:13" type="neutral"/>
+      <text>Qui croirait à un tel hasard ?</text>
+      <lipsync timecode="01:06:08:03" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:09:08" type="in_open"/>
+      <text>Que c'est vexant.</text>
+      <lipsync timecode="01:06:10:14" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:13:18" type="in_open"/>
+      <text>Que faisais-tu ?</text>
+      <lipsync timecode="01:06:14:24" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:19:12" type="in_open"/>
+      <text>En fait...</text>
+      <lipsync timecode="01:06:20:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:20:13" type="in_open"/>
+      <text>Frotter tes lunettes ne te fournira pas de prétexte.</text>
+      <lipsync timecode="01:06:23:23" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:24:00" type="in_open"/>
+      <text>J-J-J-J-Je ne pensais pas à ça !</text>
+      <lipsync timecode="01:06:26:10" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:26:13" type="in_open"/>
+      <text>Tu m'as l'air bien troublée, pourtant...</text>
+      <lipsync timecode="01:06:29:02" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:29:04" type="in_open"/>
+      <text>C-C-C-C-C'est parce que tu dis des trucs bizarres !</text>
+      <lipsync timecode="01:06:32:01" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:33:04" type="in_open"/>
+      <text>Tu pourrais enfin laisser tomber ?</text>
+      <lipsync timecode="01:06:35:14" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:06:36:09" type="neutral"/>
+      <text>Je te l'ai déjà dit, je suis un être immortel...</text>
+      <lipsync timecode="01:06:39:01" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:06:39:17" type="neutral"/>
+      <text>Toutes les blessures et coups mortels</text>
+      <lipsync timecode="01:06:42:06" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:06:42:09" type="neutral"/>
+      <text>ne pourront jamais me tuer.</text>
+      <lipsync timecode="01:06:44:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:44:09" type="in_open"/>
+      <text>D-D-D-De quoi tu parles ?</text>
+      <lipsync timecode="01:06:46:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:45:22" type="in_open"/>
+      <text>Tu mens trop mal ! Combien de fois tu crois m'avoir transpercé, cette semaine là ?</text>
+      <lipsync timecode="01:06:50:17" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:52:04" type="in_open"/>
+      <text>1, 2, 6...</text>
+      <lipsync timecode="01:06:53:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:06:53:19" type="in_open"/>
+      <text>Une main ne suffit pas ?</text>
+      <lipsync timecode="01:06:55:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:06:55:20" type="in_open"/>
+      <text>C'est ta faute !</text>
+      <lipsync timecode="01:06:56:20" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:06:57:02" type="neutral"/>
+      <text>Je n'ai jamais entendu dire qu'un possédé était si résistant !</text>
+      <lipsync timecode="01:07:01:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:01:04" type="in_open"/>
+      <text>Je te l'ai déjà dit, non ?</text>
+      <lipsync timecode="01:07:02:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:04:24" type="in_open"/>
+      <text>Je ne suis pas possédé, je suis un "Hanyô", un être rare né d'une humaine et d'un Yômu. </text>
+      <lipsync timecode="01:07:11:16" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:07:12:07" type="in_open"/>
+      <text>C'est entendu alors, non ?</text>
+      <lipsync timecode="01:07:13:24" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:15:10" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:07:16:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:07:17:06" type="in_open"/>
+      <text>Mes tentatives ne te feront jamais rien.</text>
+      <lipsync timecode="01:07:20:02" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:20:07" type="in_open"/>
+      <text>Écoute... Je ne suis pas un sous-fifre de jeu vidéo...</text>
+      <lipsync timecode="01:07:23:22" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:07:24:03" type="in_open"/>
+      <text>À partir du moment où tu es un Yômu et moi une Ikaishi, mes actes ne posent aucuns problèmes.</text>
+      <lipsync timecode="01:07:30:02" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:07:30:24" type="neutral"/>
+      <text>Sur ce...</text>
+      <lipsync timecode="01:07:31:13" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:07:35:13" type="in_open"/>
+      <text>Aïe ...</text>
+      <lipsync timecode="01:07:36:08" type="out_open"/>
+    </line>
+    <loop number="5" timecode="01:07:36:11"/>
+    <shot timecode="01:07:36:11"/>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:07:36:23" type="in_open"/>
+      <text>Alors ?</text>
+      <lipsync timecode="01:07:37:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:37:21" type="in_open"/>
+      <text>Aucun progrès !</text>
+      <lipsync timecode="01:07:39:07" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:07:40:06" type="in_open"/>
+      <text>Akihito ...</text>
+      <lipsync timecode="01:07:41:11" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:42:02" type="in_open"/>
+      <text>Qu'est-ce qui a ?</text>
+      <lipsync timecode="01:07:42:19" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:07:43:13" type="in_open"/>
+      <text>Si tu rêves que je te déclare mon amour le jour de la remise des diplômes, il va falloir t'accrocher.</text>
+      <lipsync timecode="01:07:50:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:53:00" type="in_open"/>
+      <text>Depuis quand c'est mon rêve ?</text>
+      <lipsync timecode="01:07:55:05" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:07:55:20" type="in_open"/>
+      <text>Quoi ? Tu préférerais l'inverse ?</text>
+      <lipsync timecode="01:07:58:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:07:58:00" type="in_open"/>
+      <text>Non, je voulais juste dire que tu avais carrément tout faux !</text>
+      <lipsync timecode="01:08:01:09" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:02:01" type="in_open"/>
+      <text>Pardonne-moi, alors.</text>
+      <lipsync timecode="01:08:03:19" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:04:03" type="neutral"/>
+      <text>N'étant qu'un pervers immoral ne s'intéressant qu'aux gros seins,</text>
+      <lipsync timecode="01:08:08:06" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:09:00" type="neutral"/>
+      <text>je pensais que tu trouverais quelque chose d'intéressant chez moi...</text>
+      <lipsync timecode="01:08:12:06" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:12:15" type="in_open"/>
+      <text>Arrête de me chercher ou je vais vraiment me fâcher !</text>
+      <lipsync timecode="01:08:15:23" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:17:21" type="in_open"/>
+      <text>C'est une tâche journalière.</text>
+      <lipsync timecode="01:08:19:19" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:20:09" type="neutral"/>
+      <text>Tu auras beau me gronder, impossible d'ignorer ma mission.</text>
+      <lipsync timecode="01:08:24:13" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:24:06" type="in_open"/>
+      <text>Arrête de dire des conneries !</text>
+      <lipsync timecode="01:08:25:23" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:26:04" type="in_open"/>
+      <text>Et si tu la laissais t'attaquer à sa guise ?</text>
+      <lipsync timecode="01:08:28:19" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:29:08" type="in_open"/>
+      <text>Je refuse.</text>
+      <lipsync timecode="01:08:30:08" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:31:00" type="neutral"/>
+      <text>Immortel ou pas, je ressens la douleur.</text>
+      <lipsync timecode="01:08:33:14" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:33:21" type="neutral"/>
+      <text>Et se faire transpercer les viscères, ça fait mal.</text>
+      <lipsync timecode="01:08:36:12" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:36:15" type="in_open"/>
+      <text>C'est la récompense ultime pour un pervers maso, non ?</text>
+      <lipsync timecode="01:08:40:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:40:17" type="in_open"/>
+      <text>Ne fais pas de moi un masochiste ! (voix basse)</text>
+      <lipsync timecode="01:08:43:04" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:43:07" type="neutral"/>
+      <text>Mais pourquoi insiste-t-elle à ce point ?</text>
+      <lipsync timecode="01:08:45:17" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:46:02" type="in_open"/>
+      <text>Aucune piste en vue ?</text>
+      <lipsync timecode="01:08:47:11" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:48:08" type="in_open"/>
+      <text>Et bien ...</text>
+      <lipsync timecode="01:08:49:15" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:08:49:24" type="in_open"/>
+      <text>(réac__)</text>
+      <lipsync timecode="01:08:50:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:08:51:03" type="in_open"/>
+      <text>L'amour !</text>
+      <lipsync timecode="01:08:51:24" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:08:52:16" type="neutral"/>
+      <text>Comme c'est merveilleux ! Être aimé d'une fille qui porte si bien les lunettes !</text>
+      <lipsync timecode="01:08:58:00" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:08:58:00" type="in_open"/>
+      <text>Ta mégalomanie perverse me dépasse...</text>
+      <lipsync timecode="01:09:02:07" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:04:08" type="neutral"/>
+      <text>Quoi qu'il en soit...</text>
+      <lipsync timecode="01:09:05:20" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:06:16" type="neutral"/>
+      <text>évite de t'intéresser davantage à Mirai.</text>
+      <lipsync timecode="01:09:09:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:09:10:10" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:09:11:05" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:09:12:03" type="in_open"/>
+      <text>Conseil de l'héritière du clan Nase qui gère les Ikaishi du secteur.</text>
+      <lipsync timecode="01:09:16:16" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:18:01" type="neutral"/>
+      <text>Si tu ne comprends paaas,</text>
+      <lipsync timecode="01:09:19:22" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:20:23" type="neutral"/>
+      <text>c'est que tu es un idiot.</text>
+      <lipsync timecode="01:09:22:12" type="out_open"/>
+    </line>
+    <loop number="6" timecode="01:09:25:12"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:09:32:07" type="in_open"/>
+      <text>Tu ne te lasses pas...</text>
+      <lipsync timecode="01:09:34:01" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:34:13" type="neutral"/>
+      <text>Tu comptes remettre ça ?</text>
+      <lipsync timecode="01:09:36:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:09:36:11" type="in_open"/>
+      <text>Et toi,</text>
+      <lipsync timecode="01:09:37:17" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:37:23" type="neutral"/>
+      <text>pourquoi tardes-tu autant chaque jour ?</text>
+      <lipsync timecode="01:09:40:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:09:41:07" type="in_open"/>
+      <text>Pour éviter d'être attaqué en public en rentrant trop tôt.</text>
+      <lipsync timecode="01:09:45:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:09:45:16" type="in_open"/>
+      <text>Rassure-toi !</text>
+      <lipsync timecode="01:09:47:08" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:09:48:07" type="in_open"/>
+      <text>J'ai bien fait en sorte d'éloigner les gens.</text>
+      <lipsync timecode="01:09:50:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:09:52:23" type="in_open"/>
+      <text>Tu t'en donnes, de la peine...</text>
+      <lipsync timecode="01:09:54:18" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:09:55:17" type="neutral"/>
+      <text>J'ignorais qu'on pouvait créer une épée avec son sang...</text>
+      <lipsync timecode="01:09:59:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:10:00:00" type="in_open"/>
+      <text>Au sein des Ikaishi, notre clan était détesté pour sa malédiction.</text>
+      <lipsync timecode="01:10:04:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:10:05:06" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:10:06:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:10:06:12" type="in_open"/>
+      <text>Sûrement parce qu'il était trop puissant. En tant que possesseurs de pouvoirs hors du commun, les Ikaishi ont tendance à vouloir éliminer les plus redoutable, d'où l'anéantissement de mon clan. J'en suis la seule survivante.</text>
+      <lipsync timecode="01:10:19:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:10:20:06" type="in_open"/>
+      <text>Sale histoire...</text>
+      <lipsync timecode="01:10:21:17" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:10:22:01" type="in_open"/>
+      <text>Tu trouves ?</text>
+      <lipsync timecode="01:10:23:00" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:10:23:17" type="neutral"/>
+      <text>Franchement, à mes yeux, elle est pourtant quelconque ...</text>
+      <lipsync timecode="01:10:27:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:10:34:13" type="in_open"/>
+      <text>Que le combat commence !</text>
+      <lipsync timecode="01:10:36:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:10:39:17" type="in_open"/>
+      <text>D'accord... Mais laisse-moi juste te poser une question.</text>
+      <lipsync timecode="01:10:43:16" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:10:44:05" type="neutral"/>
+      <text>Pourquoi moi ?</text>
+      <lipsync timecode="01:10:45:23" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:10:46:13" type="in_open"/>
+      <text>(réac__)</text>
+      <lipsync timecode="01:10:47:07" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:10:50:11" type="in_open"/>
+      <text>Franchement...</text>
+      <lipsync timecode="01:10:51:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:10:54:02" type="in_open"/>
+      <text>tst_</text>
+      <lipsync timecode="01:10:54:13" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:10:54:14" type="in_open"/>
+      <text>(course)</text>
+      <lipsync timecode="01:10:55:08" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:10:56:02" type="in_open"/>
+      <text>(réac_)</text>
+      <lipsync timecode="01:10:56:18" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:10:57:05" type="in_open"/>
+      <text>(réac)</text>
+      <lipsync timecode="01:10:57:19" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:10:58:05" type="in_open"/>
+      <text>Pourquoi t'enfuis-tu ?</text>
+      <lipsync timecode="01:10:59:15" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:10:59:20" type="in_open"/>
+      <text>C'est une retraite stratégique ! À force, j'ai compris que c'était perdu d'avance !</text>
+      <lipsync timecode="01:11:05:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:11:05:13" type="in_open"/>
+      <text>C'est intolérable !</text>
+      <lipsync timecode="01:11:06:19" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:11:09:20" type="in_open"/>
+      <text>Minute, attends !</text>
+      <lipsync timecode="01:11:11:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:11:23:11" type="in_open"/>
+      <text>Je l'ai semée ?</text>
+      <lipsync timecode="01:11:24:06" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:11:26:00" type="in_open"/>
+      <text>ah________</text>
+      <lipsync timecode="01:11:26:23" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:11:27:04" type="in_open"/>
+      <text>Mais d'où tu sors ?</text>
+      <lipsync timecode="01:11:28:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:11:29:09" type="in_open"/>
+      <text>Prends ça !</text>
+      <lipsync timecode="01:11:30:00" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:30:03" type="in_open"/>
+      <text>oh_</text>
+      <lipsync timecode="01:11:30:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:30:20" type="in_open"/>
+      <text>oh____</text>
+      <lipsync timecode="01:11:31:09" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:32:02" type="in_open"/>
+      <text>(effort_____)</text>
+      <lipsync timecode="01:11:33:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:34:03" type="in_open"/>
+      <text>(effort)</text>
+      <lipsync timecode="01:11:34:15" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:11:34:17" type="in_open"/>
+      <text>Saleté !</text>
+      <lipsync timecode="01:11:35:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:36:03" type="in_open"/>
+      <text>(effort)</text>
+      <lipsync timecode="01:11:36:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:11:39:06" type="in_open"/>
+      <text>Minute ! Le seau !</text>
+      <lipsync timecode="01:11:41:13" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:43:04" type="in_open"/>
+      <text>ah________</text>
+      <lipsync timecode="01:11:44:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:45:13" type="in_open"/>
+      <text>ah__</text>
+      <lipsync timecode="01:11:45:24" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:47:03" type="in_open"/>
+      <text>(effort_)</text>
+      <lipsync timecode="01:11:47:23" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:11:48:02" type="in_open"/>
+      <text>Bon sang !</text>
+      <lipsync timecode="01:11:48:19" type="out_open"/>
+    </line>
+    <loop number="7" timecode="01:11:49:01"/>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:52:05" type="in_open"/>
+      <text>(réac)</text>
+      <lipsync timecode="01:11:52:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:53:04" type="in_open"/>
+      <text>(effort____________________)</text>
+      <lipsync timecode="01:11:55:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:11:55:16" type="in_open"/>
+      <text>oh</text>
+      <lipsync timecode="01:11:55:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:12:15:07" type="in_open"/>
+      <text>Mieux vaudrait s'en tenir là pour aujourd'hui...</text>
+      <lipsync timecode="01:12:18:04" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:12:19:04" type="in_open"/>
+      <text>C'est un film d'horreur ?</text>
+      <lipsync timecode="01:12:20:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:12:23:21" type="in_open"/>
+      <text>Il fait tout noir ! Qu'est-ce que tu as fait ?</text>
+      <lipsync timecode="01:12:26:14" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:12:26:24" type="in_open"/>
+      <text>C'est le seau...</text>
+      <lipsync timecode="01:12:28:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:12:36:16" type="in_open"/>
+      <text>Tu as faim ?</text>
+      <lipsync timecode="01:12:38:03" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:12:42:08" type="in_open"/>
+      <text>Ehh</text>
+      <lipsync timecode="01:12:42:20" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:12:42:23" type="neutral"/>
+      <text>Attention!</text>
+      <lipsync timecode="01:12:43:18" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:12:55:12" type="in_open"/>
+      <text>C'est un Yômu ?</text>
+      <lipsync timecode="01:12:56:07" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:12:57:11" type="in_open"/>
+      <text>Oui ...</text>
+      <lipsync timecode="01:12:58:00" type="out_open"/>
+    </line>
+    <line role="shizuku" track="2">
+      <lipsync timecode="01:13:00:03" type="in_open"/>
+      <text>Poussez-vous !</text>
+      <lipsync timecode="01:13:01:00" type="out_open"/>
+    </line>
+    <line role="voix_etudiante" track="3">
+      <lipsync timecode="01:13:06:24" type="in_open"/>
+      <text>On va faire la course au club, aujourd'hui...</text>
+      <lipsync timecode="01:13:09:04" type="out_open"/>
+    </line>
+    <line role="shizuku" track="2">
+      <lipsync timecode="01:13:09:20" type="in_open"/>
+      <text>Rhaa... Mince !</text>
+      <lipsync timecode="01:13:11:00" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:13:11:12" type="neutral"/>
+      <text>Pardon de vous avoir déranger, Akihito !  Dis, Tu pourrais contacter les nettoyeurs ?</text>
+      <lipsync timecode="01:13:17:00" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:13:17:16" type="neutral"/>
+      <text>C'était prévu, non ?</text>
+      <lipsync timecode="01:13:19:03" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:13:21:00" type="neutral"/>
+      <text>Sur ce...</text>
+      <lipsync timecode="01:13:21:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:13:24:09" type="in_open"/>
+      <text>Qui était-ce ?</text>
+      <lipsync timecode="01:13:25:11" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:13:25:22" type="in_open"/>
+      <text>Shizuku Ninomiya, on la surnomme Nino.</text>
+      <lipsync timecode="01:13:28:14" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:13:29:09" type="in_open"/>
+      <text>C'est une Ikaishi plutôt connue dans le coin.</text>
+      <lipsync timecode="01:13:31:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:13:32:04" type="in_open"/>
+      <text>Ah bon ?</text>
+      <lipsync timecode="01:13:33:12" type="out_open"/>
+    </line>
+    <loop number="8" timecode="01:13:35:23"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:13:36:14" type="in_open"/>
+      <text>Tu n'as jamais terrassé de Yômu ?</text>
+      <lipsync timecode="01:13:38:19" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:13:39:03" type="in_open"/>
+      <text>Si, quand même, mais...</text>
+      <lipsync timecode="01:13:40:22" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:13:41:21" type="neutral"/>
+      <text>presque pas...</text>
+      <lipsync timecode="01:13:42:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:13:43:02" type="in_open"/>
+      <text>Tu es pourtant une Ikaishi.</text>
+      <lipsync timecode="01:13:44:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:13:44:16" type="in_open"/>
+      <text>Je te l'ai dit, non ? Mon clan est détesté à cause de sa faculté à manipuler le sang. J'ai donc évité de réprimer les Yômu afin de dissimuler mon pouvoir.Ensuite...</text>
+      <lipsync timecode="01:13:58:02" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:13:58:09" type="in_open"/>
+      <text>Ensuite ?</text>
+      <lipsync timecode="01:13:59:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:14:01:10" type="in_open"/>
+      <text>Rien ...</text>
+      <lipsync timecode="01:14:02:03" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:04:23" type="in_open"/>
+      <text>Tu m'as donc attaqué sans retenue en jugeant que j'étais un Yômu ?</text>
+      <lipsync timecode="01:14:09:24" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:14:11:15" type="in_open"/>
+      <text>Tu m'as dit que tu étais immortel... Mes coups d'épée ne te tueront donc pas ! Et puis, je n'étais pas habituée à abattre des Yômu...</text>
+      <lipsync timecode="01:14:23:15" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:23:22" type="in_open"/>
+      <text>Minute... Tu m'utilisais pour t'entraîner ?</text>
+      <lipsync timecode="01:14:26:10" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:14:26:18" type="in_open"/>
+      <text>Et alors ? Ça ne te coûte rien !</text>
+      <lipsync timecode="01:14:28:24" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:28:24" type="in_open"/>
+      <text>Si, ça me coûte ! Mon cœur est à bout ! Je ressens la douleur ! Tu imagines à quel point je souffre ? Profiter de mon immortalité, c'est discriminant !</text>
+      <lipsync timecode="01:14:39:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:14:39:19" type="in_open"/>
+      <text>On va t'entendre.</text>
+      <lipsync timecode="01:14:41:05" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:41:12" type="in_open"/>
+      <text>Ça va. J'ai vérifié qu'il n'y avait personne.</text>
+      <lipsync timecode="01:14:44:09" type="out_open"/>
+    </line>
+    <line role="serveuse" track="2">
+      <lipsync timecode="01:14:44:14" type="in_open"/>
+      <text>Désolée pour l'attente ! Voici votre rab de burritos et votre menu mole poblano &amp; chili con carne. Bon apétit à vous ! </text>
+      <lipsync timecode="01:14:53:13" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:53:18" type="in_open"/>
+      <text>T'avais encore commandé ?</text>
+      <lipsync timecode="01:14:55:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:14:55:10" type="in_open"/>
+      <text>Que c'est vexant.</text>
+      <lipsync timecode="01:14:56:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:14:56:14" type="in_open"/>
+      <text>C'est à moi d'être vexé ! Tu m'utilises comme spécimen et tu me fais payer le resto !</text>
+      <lipsync timecode="01:15:02:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:15:02:12" type="in_open"/>
+      <text>Quoi ? C'est la condition de notre marché, non ? Je ne te défierai plus aujourd'hui en échange de ce repas.</text>
+      <lipsync timecode="01:15:10:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:15:11:11" type="in_open"/>
+      <text>Ça sous-entend que tu m'attaqueras encore demain ?</text>
+      <lipsync timecode="01:15:14:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:15:14:15" type="in_open"/>
+      <text>J'aurais mal compris ?</text>
+      <lipsync timecode="01:15:16:11" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:15:17:05" type="in_open"/>
+      <text>(souffle___________________________)</text>
+      <lipsync timecode="01:15:19:06" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:15:19:15" type="in_open"/>
+      <text>(réac____)</text>
+      <lipsync timecode="01:15:20:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:15:22:01" type="in_open"/>
+      <text>Les Yômu prennent la vie des humains en les possédant. Mais s'en occuper n'a rien de bien dur avec le pouvoir d'un Ikaishi.</text>
+      <lipsync timecode="01:15:30:08" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:15:32:19" type="neutral"/>
+      <text>C'est au moins plus facile que de m'attaquer.</text>
+      <lipsync timecode="01:15:35:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:15:36:12" type="in_open"/>
+      <text>Ça, je le sais bien.</text>
+      <lipsync timecode="01:15:38:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:15:38:24" type="in_open"/>
+      <text>Pourquoi ne pas le faire, alors ?</text>
+      <lipsync timecode="01:15:40:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:15:53:07" type="in_open"/>
+      <text>Mirai !</text>
+      <lipsync timecode="01:15:54:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:15:57:01" type="in_open"/>
+      <text>Merci pour le repas !</text>
+      <lipsync timecode="01:15:58:22" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:16:12:04" type="in_open"/>
+      <text>Ça, je le sais bien.</text>
+      <lipsync timecode="01:16:13:19" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:15:18" type="in_open"/>
+      <text>Je ne comprends pas...</text>
+      <lipsync timecode="01:16:17:22" type="out_open"/>
+    </line>
+    <loop number="9" timecode="01:16:18:00"/>
+    <shot timecode="01:16:18:00"/>
+    <line role="voix_etudiante" track="2">
+      <lipsync timecode="01:16:18:00" type="in_open"/>
+      <text>Merci beaucoup !</text>
+      <lipsync timecode="01:16:19:00" type="out_open"/>
+    </line>
+    <line role="serveuse" track="3">
+      <lipsync timecode="01:16:19:02" type="in_open"/>
+      <text>Et bon appétit !</text>
+      <lipsync timecode="01:16:20:17" type="out_open"/>
+    </line>
+    <line role="camarade_akihito" track="2">
+      <lipsync timecode="01:16:21:19" type="in_open"/>
+      <text>Tu manges à la cantine, Kanbara ?</text>
+      <lipsync timecode="01:16:23:04" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:23:16" type="in_open"/>
+      <text> Aha ____ Oui, ça m'arrive.</text>
+      <lipsync timecode="01:16:25:01" type="out_open"/>
+    </line>
+    <line role="camarade_akihito" track="2">
+      <lipsync timecode="01:16:25:13" type="in_open"/>
+      <text>Ehe</text>
+      <lipsync timecode="01:16:26:04" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:16:28:18" type="in_open"/>
+      <text>oh_</text>
+      <lipsync timecode="01:16:29:01" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:29:20" type="in_open"/>
+      <text>Pourquoi m'as-tu donné rendez-vous à la cantine ?</text>
+      <lipsync timecode="01:16:32:20" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:16:33:23" type="in_open"/>
+      <text>À t'entendre, on dirait que je suis toujours cloîtrée dans le local.</text>
+      <lipsync timecode="01:16:38:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:38:10" type="in_open"/>
+      <text>C'est le cas, non ?</text>
+      <lipsync timecode="01:16:39:09" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1" type="reac">
+      <lipsync timecode="01:16:39:19" type="in_open"/>
+      <text>grrr___</text>
+      <lipsync timecode="01:16:40:11" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:16:40:17" type="in_open"/>
+      <text>Compris, je ne nierai pas. Ma vie de lycéenne est triste au point de ne pouvoir asticoter qu'un paria connu pour manger seul.</text>
+      <lipsync timecode="01:16:51:06" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:51:12" type="in_open"/>
+      <text>Attends ! C'est pas moi le plus à plaindre dans ta phrase, là ?</text>
+      <lipsync timecode="01:16:55:19" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:16:56:00" type="in_open"/>
+      <text>Bon, entrons dans le vif du sujet.</text>
+      <lipsync timecode="01:16:58:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:16:58:11" type="in_open"/>
+      <text>Tu es incapable de parler sans préambule ?</text>
+      <lipsync timecode="01:17:00:23" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:01:18" type="in_open"/>
+      <text>Je sèche le club, aujourd'hui.</text>
+      <lipsync timecode="01:17:03:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:05:07" type="in_open"/>
+      <text>Tu m'as fait venir pour me dire ça ?</text>
+      <lipsync timecode="01:17:07:15" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:08:07" type="in_open"/>
+      <text>Oui, tu peux voir la suitecomme un monologue.</text>
+      <lipsync timecode="01:17:11:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:17:11:18" type="neutral"/>
+      <text>D'accord ?</text>
+      <lipsync timecode="01:17:12:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:13:01" type="in_open"/>
+      <text>D'accord.</text>
+      <lipsync timecode="01:17:13:14" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:13:20" type="in_open"/>
+      <text>Ne m'interromps pas, OK ?</text>
+      <lipsync timecode="01:17:15:11" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:17:16:01" type="neutral"/>
+      <text>Réponds.</text>
+      <lipsync timecode="01:17:16:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:16:17" type="in_open"/>
+      <text>Faudrait savoir !</text>
+      <lipsync timecode="01:17:17:22" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:23:04" type="in_open"/>
+      <text>Le clan Nase se méfie de Mirai Kuriyama.</text>
+      <lipsync timecode="01:17:25:14" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:26:01" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:17:26:14" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:27:19" type="in_open"/>
+      <text>Le chef régnant sur ces terres est intolérant et conservateur.</text>
+      <lipsync timecode="01:17:32:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:33:19" type="in_open"/>
+      <text>Où veux-tu en venir, en gros ?</text>
+      <lipsync timecode="01:17:35:15" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:36:03" type="in_open"/>
+      <text>Ne t'intéresse pas davantage à Mirai Kuriyama.</text>
+      <lipsync timecode="01:17:39:07" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:42:04" type="in_open"/>
+      <text>Enfin, mes paroles ne changeront sûrement rien...</text>
+      <lipsync timecode="01:17:44:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:17:45:05" type="in_open"/>
+      <text>(réac___)</text>
+      <lipsync timecode="01:17:46:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:17:47:07" type="in_open"/>
+      <text>Probablement...</text>
+      <lipsync timecode="01:17:48:00" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:17:48:19" type="neutral"/>
+      <text> Quoi qu'il arrive, je n'en mourrai pas, après tout.</text>
+      <lipsync timecode="01:17:52:07" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1" type="reac">
+      <lipsync timecode="01:17:52:16" type="in_open"/>
+      <text>mmm__</text>
+      <lipsync timecode="01:17:53:05" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1">
+      <lipsync timecode="01:17:56:02" type="in_open"/>
+      <text>Tu peux crever, alors.</text>
+      <lipsync timecode="01:17:57:10" type="out_open"/>
+    </line>
+    <loop number="10" timecode="01:17:57:14"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:03:14" type="in_open"/>
+      <text>Que comptes-tu faire, aujourd'hui ?</text>
+      <lipsync timecode="01:18:05:16" type="out_open"/>
+    </line>
+    <line role="mitsuki" track="1" type="reac">
+      <lipsync timecode="01:18:06:19" type="in_open"/>
+      <text>oh_</text>
+      <lipsync timecode="01:18:07:02" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:08:05" type="in_open"/>
+      <text>J'aurais un truc à te dire...</text>
+      <lipsync timecode="01:18:10:08" type="out_open"/>
+    </line>
+    <line role="vendeur" track="2">
+      <lipsync timecode="01:18:10:21" type="in_open"/>
+      <text>Voilà, c'est 390 yens.</text>
+      <lipsync timecode="01:18:12:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:12:16" type="in_open"/>
+      <text>Bien, sur 500 yens...</text>
+      <lipsync timecode="01:18:14:15" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:18:15:24" type="neutral"/>
+      <text>Tien ?</text>
+      <lipsync timecode="01:18:16:12" type="out_open"/>
+    </line>
+    <line role="vendeur" track="2" type="reac">
+      <lipsync timecode="01:18:16:19" type="in_open"/>
+      <text>oh____</text>
+      <lipsync timecode="01:18:17:08" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:17:17" type="in_open"/>
+      <text>Ah, euh...</text>
+      <lipsync timecode="01:18:18:18" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:18:19:06" type="neutral"/>
+      <text>Ehhh _______</text>
+      <lipsync timecode="01:18:20:02" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:20:17" type="in_open"/>
+      <text>Désolée ...</text>
+      <lipsync timecode="01:18:21:23" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:22:08" type="in_open"/>
+      <text>Ça va, c'est pas grand-chose.</text>
+      <lipsync timecode="01:18:23:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:23:21" type="in_open"/>
+      <text>Alors ? Que voulais-tu me dire ?</text>
+      <lipsync timecode="01:18:26:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:26:19" type="in_open"/>
+      <text>Je me demandais si tu étais venue dans cette ville dans un but précis.</text>
+      <lipsync timecode="01:18:31:11" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:32:13" type="in_open"/>
+      <text>Non.</text>
+      <lipsync timecode="01:18:33:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:18:34:15" type="neutral"/>
+      <text>Pas spécialement ...</text>
+      <lipsync timecode="01:18:35:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:39:01" type="in_open"/>
+      <text>En fait, quelqu'un m'a dit de cesser de m'intéresser à toi.</text>
+      <lipsync timecode="01:18:43:19" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:46:24" type="in_open"/>
+      <text>Mirai, tu...</text>
+      <lipsync timecode="01:18:47:13" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:47:14" type="in_open"/>
+      <text>Tout le monde me déteste ! On m'incendie même sur mon blog et Twitter !</text>
+      <lipsync timecode="01:18:52:12" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:18:47:23" type="in_open"/>
+      <text>oh__</text>
+      <lipsync timecode="01:18:48:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:52:24" type="in_open"/>
+      <text>C'est vrai...</text>
+      <lipsync timecode="01:18:53:13" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:18:53:18" type="in_open"/>
+      <text>Ha ha ... Eh oui.</text>
+      <lipsync timecode="01:18:55:13" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:18:55:21" type="in_open"/>
+      <text>Non, je plaisantais ! Je m'abonnerai à ton compte après pour te soutenir ! J'ai trop hâte... Ah, mais non ! Dis la vérité !</text>
+      <lipsync timecode="01:19:03:20" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:19:04:18" type="neutral"/>
+      <text>Tu n'avais aucun but précis ?</text>
+      <lipsync timecode="01:19:06:07" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:07:15" type="in_open"/>
+      <text>Admettons que j'en aie un, crois-tu que je te l'aurais révélé ?</text>
+      <lipsync timecode="01:19:12:09" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:13:05" type="in_open"/>
+      <text>En gros, il y a bien une raison, c'est ça ?</text>
+      <lipsync timecode="01:19:15:12" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:16:07" type="in_open"/>
+      <text>Tu ne m'auras pas comme ça.</text>
+      <lipsync timecode="01:19:18:05" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:22:09" type="in_open"/>
+      <text>Tu aurais pu manger ça chez toi...</text>
+      <lipsync timecode="01:19:24:02" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:19:25:03" type="neutral"/>
+      <text>Quelque chose t'en empêcherait ?</text>
+      <lipsync timecode="01:19:28:07" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:19:28:11" type="in_open"/>
+      <text>(réac)</text>
+      <lipsync timecode="01:19:29:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:30:17" type="in_open"/>
+      <text>Comment ça ? C'est impossible !</text>
+      <lipsync timecode="01:19:33:10" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:33:10" type="in_open"/>
+      <text>Tu mens trop mal !</text>
+      <lipsync timecode="01:19:34:11" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:37:11" type="in_open"/>
+      <text>C'est vexant.</text>
+      <lipsync timecode="01:19:38:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:39:04" type="in_open"/>
+      <text>Tu n'as pas pu payer ton loyer ?</text>
+      <lipsync timecode="01:19:41:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:41:24" type="in_open"/>
+      <text>Ce mois-ci, si !</text>
+      <lipsync timecode="01:19:43:19" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:44:00" type="in_open"/>
+      <text>Ton appart est un dépotoir ?</text>
+      <lipsync timecode="01:19:46:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:46:10" type="in_open"/>
+      <text>Il est bien rangé !</text>
+      <lipsync timecode="01:19:47:20" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:49:12" type="in_open"/>
+      <text>Se pourrait-il qu'un Yômu y habite ?</text>
+      <lipsync timecode="01:19:51:21" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:19:52:11" type="in_open"/>
+      <text>T-T-T-Tu crois vraiment cela possible ? J-J-J'aurais emménagé par hasard dans un appart où vivait un Yômu ?</text>
+      <lipsync timecode="01:19:58:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:19:59:06" type="in_open"/>
+      <text>Je vois...</text>
+      <lipsync timecode="01:19:59:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:20:01:00" type="in_open"/>
+      <text>Enfin, le pouvoir des Ikaishi attirerait les Yômu, paraît-il...</text>
+      <lipsync timecode="01:20:05:01" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:20:04:13" type="in_open"/>
+      <text>oh</text>
+      <lipsync timecode="01:20:04:17" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:20:05:04" type="in_open"/>
+      <text>oh__</text>
+      <lipsync timecode="01:20:05:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:20:09:01" type="in_open"/>
+      <text>Attends une minute ! Où vas-tu comme ça ?</text>
+      <lipsync timecode="01:20:12:16" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:20:14:02" type="in_open"/>
+      <text>Je vais t'aider à l'abattre. Tu y gagneras argent et aplomb et ça m'évitera tes coups d'épée.</text>
+      <lipsync timecode="01:20:21:07" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:20:23:21" type="in_open"/>
+      <text>Je refuse.</text>
+      <lipsync timecode="01:20:24:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:20:25:22" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:20:26:21" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:20:29:03" type="in_open"/>
+      <text>J'ai peur ...</text>
+      <lipsync timecode="01:20:30:05" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:20:32:20" type="in_open"/>
+      <text>de prendre des vies ...</text>
+      <lipsync timecode="01:20:34:08" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:20:35:16" type="in_open"/>
+      <text>Renonce à être Ikaishi, alors.</text>
+      <lipsync timecode="01:20:37:14" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:20:38:19" type="in_open"/>
+      <text>Si je le pouvais...</text>
+      <lipsync timecode="01:20:40:02" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:20:41:08" type="neutral"/>
+      <text>Si je le pouvais, je l'aurais déjà fait depuis longtemps !</text>
+      <lipsync timecode="01:20:43:20" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:20:44:09" type="neutral"/>
+      <text>J'ai essayé ! J'ai voulu tout stopper, ne plus abattre de Yômu et vivre normalement !</text>
+      <lipsync timecode="01:20:51:05" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:20:52:17" type="neutral"/>
+      <text>Seulement, ce sang qui coule en moi est maudit... Ce pouvoir n'est pas normal...</text>
+      <lipsync timecode="01:20:59:02" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:21:00:01" type="in_open"/>
+      <text>C'est pareil pour moi...</text>
+      <lipsync timecode="01:21:01:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0" type="reac">
+      <lipsync timecode="01:21:06:01" type="in_open"/>
+      <text>(réac)</text>
+      <lipsync timecode="01:21:06:14" type="out_open"/>
+    </line>
+    <loop number="11" timecode="01:21:10:16"/>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:21:12:20" type="in_open"/>
+      <text>Attends un instant.</text>
+      <lipsync timecode="01:21:14:00" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:21:16:03" type="in_open"/>
+      <text>Un changement ?</text>
+      <lipsync timecode="01:21:16:18" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:21:17:14" type="in_open"/>
+      <text>Pas spécialement ...</text>
+      <lipsync timecode="01:21:18:07" type="neutral"/>
+      <text> </text>
+      <lipsync timecode="01:21:19:11" type="neutral"/>
+      <text>Par contre ...</text>
+      <lipsync timecode="01:21:20:03" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:21:20:16" type="in_open"/>
+      <text>oh_</text>
+      <lipsync timecode="01:21:20:24" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:21:25:24" type="in_open"/>
+      <text>Prépare-toi.</text>
+      <lipsync timecode="01:21:26:22" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:21:34:18" type="in_open"/>
+      <text>Kuriyama !</text>
+      <lipsync timecode="01:21:35:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1" type="reac">
+      <lipsync timecode="01:21:36:19" type="in_open"/>
+      <text>(effort)</text>
+      <lipsync timecode="01:21:37:13" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:21:38:24" type="in_open"/>
+      <text>Je l'ai raté !</text>
+      <lipsync timecode="01:21:39:17" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:21:39:22" type="in_open"/>
+      <text>En-dessous !</text>
+      <lipsync timecode="01:21:40:06" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:22:05:07" type="in_open"/>
+      <text>Le yomu ...</text>
+      <lipsync timecode="01:22:06:06" type="out_open"/>
+    </line>
+    <loop number="12" timecode="01:22:06:10"/>
+    <loop number="13" timecode="01:23:25:01"/>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:23:26:04" type="in_open"/>
+      <text>Tu n'adhères à aucun club, Kuriyama ?</text>
+      <lipsync timecode="01:23:28:15" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:23:29:00" type="in_open"/>
+      <text>Je n'ai pas le temps.</text>
+      <lipsync timecode="01:23:30:21" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:23:30:21" type="in_open"/>
+      <text>Et mon club de littérature ?</text>
+      <lipsync timecode="01:23:32:07" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:23:32:16" type="in_open"/>
+      <text>Non, merci.</text>
+      <lipsync timecode="01:23:33:13" type="out_open"/>
+    </line>
+    <line role="akihito" track="0">
+      <lipsync timecode="01:23:34:18" type="in_open"/>
+      <text>Pourquoi ?</text>
+      <lipsync timecode="01:23:35:10" type="out_open"/>
+    </line>
+    <line role="mirai" track="1">
+      <lipsync timecode="01:23:35:24" type="in_open"/>
+      <text>Je n'ai pas l'intention de me mêler aux autres.</text>
+      <lipsync timecode="01:23:39:00" type="out_open"/>
+    </line>
+  </body>
+
+</detx>

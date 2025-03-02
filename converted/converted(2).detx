@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<detx copyright="Chinkel S.A., 2007-2024">
+  <header>
+    <cappella version="3.7.0"/>
+    <title>Converted Subtitles</title>
+    <title2/>
+    <episode number="1"/>
+    <videofile timestamp="01:00:00:00"/>
+  </header>
+  <roles>
+    <role color="#000000" description="" gender="unknown" id="placeholder" name="Placeholder"/>
+  </roles>
+  <body>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:17:00" type="out_open"/>
+      <text>Kanbara !</text>
+      <lipsync timecode="00:00:23:00" type="out_close"/>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:24:00" type="out_open"/>
+      <text>Tout va bien ?</text>
+      <lipsync timecode="00:00:25:00" type="out_close"/>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:25:21" type="out_open"/>
+      <text>Oui, merci...</text>
+      <lipsync timecode="00:00:30:00" type="out_close"/>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:31:00" type="out_open"/>
+      <text>Kuriyama ! Il faut lui crever l'œil !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:40:10" type="out_open"/>
+      <text>- Je le poursuis ! - Entendu !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:42:24" type="out_open"/>
+      <text>À quoi tu joues ? Il va s'enfuir !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:46:05" type="out_open"/>
+      <text>- Je ne veux rien casser ! - On a des nettoyeurs !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:48:06" type="out_open"/>
+      <text>Je n'aime pas me faire remarquer !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:00:52:04" type="out_open"/>
+      <text>- Attention, il est en furie ! - Je sais !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:03:13" type="out_open"/>
+      <text>Œuvre originale : Kyôkai no Kanata de Nagomu Torii</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:16:22" type="out_open"/>
+      <text>Producteurs : Yoko Hatta Shunji Inoue - Yoshihisa Nakayama</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:24:07" type="out_open"/>
+      <text>BEYOND THE BOUNDARY</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:29:01" type="out_open"/>
+      <text>Structure de la série : Jukki Hanada</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:34:10" type="out_open"/>
+      <text>Character design &amp; Directeur de l'animation : Miku Kadowaki</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:44:14" type="out_open"/>
+      <text>Planning de production : Yoshiaki Hatta</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:47:14" type="out_open"/>
+      <text>Directeur artistique : Mikiko Watanabe</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:50:16" type="out_open"/>
+      <text>Editing : Kengo Shigemura Direction sonore : Yôta Tsuruoka</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:53:09" type="out_open"/>
+      <text>Générique de début : "Kyôkai no Kanata"</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:01:56:08" type="out_open"/>
+      <text>Producteur musical : Shigeru Saitô Musique : Hikaru Nanase</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:02:10" type="out_open"/>
+      <text>Directeur de la photographie : Nakagami Ryûta</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:06:11" type="out_open"/>
+      <text>Production de l'animation : Kyôto Animation</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:10:21" type="out_open"/>
+      <text>Réalisateur : Taichi Ishidate</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:27:20" type="out_open"/>
+      <text>Production : Kyôto Animation Pony Canyon - Lantis - TBS</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:31:15" type="out_open"/>
+      <text>ÉPISODE 2 : OUTREMER</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:37:12" type="out_open"/>
+      <text>C'est lent !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:43:19" type="out_open"/>
+      <text>Il a disparu ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:55:08" type="out_open"/>
+      <text>Fais attention !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:57:03" type="out_open"/>
+      <text>Surtout à tes lunettes !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:02:59:04" type="out_open"/>
+      <text>C'est vexant !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:05:24" type="out_open"/>
+      <text>Il a plongé...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:24:08" type="out_open"/>
+      <text>Le voilà !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:30:02" type="out_open"/>
+      <text>Kuriyama !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:41:23" type="out_open"/>
+      <text>Tu l'as eu ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:44:12" type="out_open"/>
+      <text>Oui... Quoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:47:10" type="out_open"/>
+      <text>Son œil peut bouger ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:49:11" type="out_open"/>
+      <text>Il décampe !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:52:22" type="out_open"/>
+      <text>- Je ne peux pas le laisser fuir ? - Après tout ça ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:57:09" type="out_open"/>
+      <text>Il ne reviendra sûrement plus...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:03:59:08" type="out_open"/>
+      <text>Mais tu ne gagneras pas un sou !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:04:00:10" type="out_open"/>
+      <text>Pas grave.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:04:03:00" type="out_open"/>
+      <text>Mais comment tu paieras ton repas, demain ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:04:04:17" type="out_open"/>
+      <text>Et ton prochain loyer ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:04:06:05" type="out_open"/>
+      <text>C'est vexant !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:04:20:13" type="out_open"/>
+      <text>Ça devrait aller d'ici.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:03:08" type="out_open"/>
+      <text>Kuriyama !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:07:09" type="out_open"/>
+      <text>Transperce-le, vite ! Tu dois le faire !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:26:03" type="out_open"/>
+      <text>Kuriyama ! Ça va ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:29:13" type="out_open"/>
+      <text>Oui... c'est juste de l'anémie...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:32:06" type="out_open"/>
+      <text>C'est parce que j'utilise mon sang...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:39:08" type="out_open"/>
+      <text>On l'apportera à Ayaka, demain.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:41:00" type="out_open"/>
+      <text>Je passerai le matin.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:44:01" type="out_open"/>
+      <text>Ayaka ? Qui est-ce ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:48:07" type="out_open"/>
+      <text>Une experte agréée par le Cercle des Ikaishi qui rachète les Yômu.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:51:00" type="out_open"/>
+      <text>Tous les Ikaishi du coin la connaissent.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:54:09" type="out_open"/>
+      <text>Mieux vaudrait t'éloigner.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:05:57:19" type="out_open"/>
+      <text>J'ai libéré le pouvoir que je contenais.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:01:22" type="out_open"/>
+      <text>Même immortel, tu risques gros en me touchant...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:05:04" type="out_open"/>
+      <text>Pourtant, du sang reste du sang.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:08:21" type="out_open"/>
+      <text>Ta main.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:14:03" type="out_open"/>
+      <text>- Je peux le faire moi-même. - C'est bon.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:19:07" type="out_open"/>
+      <text>Laisse-moi te remercier. Tu m'as sauvé, non ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:25:14" type="out_open"/>
+      <text>Tu n'adhères à aucun club, Kuriyama ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:27:24" type="out_open"/>
+      <text>Je n'ai pas le temps.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:30:20" type="out_open"/>
+      <text>- Et le club de littérature ? - Pourquoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:33:02" type="out_open"/>
+      <text>J'y veux un canon à lunettes.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:34:15" type="out_open"/>
+      <text>C'est vexant.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:39:02" type="out_open"/>
+      <text>J'en fais partie et on n'est que deux adhérents effectifs.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:41:24" type="out_open"/>
+      <text>L'autre membre étant Ikaishi,</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:44:20" type="out_open"/>
+      <text>ça sera aussi profitable pour ton boulot.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:49:18" type="out_open"/>
+      <text>- Non, merci. - Pourquoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:06:52:18" type="out_open"/>
+      <text>Je n'ai pas l'intention de me mêler aux autres.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:04:10" type="out_open"/>
+      <text>Jolie fille à lunettes au clair de lune...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:17:06" type="out_open"/>
+      <text>{\i1}M. Akihito Kanbara{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:32:15" type="out_open"/>
+      <text>C'est vexant.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:36:01" type="out_open"/>
+      <text>C'est à moi d'être vexé.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:39:01" type="out_open"/>
+      <text>C'est ici.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:42:00" type="out_open"/>
+      <text>C'est un café ? Non...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:43:16" type="out_open"/>
+      <text>un studio photo ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:45:18" type="out_open"/>
+      <text>Officiellement, oui...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:49:04" type="out_open"/>
+      <text>Bien le bonjour, Kanbara !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:50:22" type="out_open"/>
+      <text>Bonjour. Ayaka est là ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:54:22" type="out_open"/>
+      <text>Désolée. Elle a fini tard, hier. Elle dort encore.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:07:59:20" type="out_open"/>
+      <text>Je vois... J'avais un Yômu à lui faire expertiser...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:02:15" type="out_open"/>
+      <text>Toi ? Voilà qui est rarissime !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:06:05" type="out_open"/>
+      <text>Pourquoi es-tu si familier avec cette Yômu ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:07:13" type="out_open"/>
+      <text>Attends !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:10:08" type="out_open"/>
+      <text>Tu ne l'aurais pas remarqué ? C'est une Yômu !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:14:01" type="out_open"/>
+      <text>Je sais ! Mais comment dire, elle est de notre côté...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:17:10" type="out_open"/>
+      <text>D'ailleurs, elle a tout d'une humaine ordinaire.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:19:08" type="out_open"/>
+      <text>Ayaka aussi, au passage...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:21:04" type="out_open"/>
+      <text>Elle est semblable à une humaine ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:24:20" type="out_open"/>
+      <text>Exact ! Il faut dire qu'il y a de tout chez les Yômu.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:26:23" type="out_open"/>
+      <text>Je m'appelle Ai Shindô.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:30:03" type="out_open"/>
+      <text>Des Yômu peuvent évaluer d'autres Yômu ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:31:00" type="out_open"/>
+      <text>Oui !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:34:06" type="out_open"/>
+      <text>Le Cercle des Ikaishi nous a délivré notre licence.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:35:14" type="out_open"/>
+      <text>La voilà !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:38:14" type="out_open"/>
+      <text>Des Yômu qui évaluent d'autres Yômu...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:41:10" type="out_open"/>
+      <text>Beaucoup de personnes s'en étonnent.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:42:24" type="out_open"/>
+      <text>Évidemment !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:45:15" type="out_open"/>
+      <text>Les humains ne font pas ça entre eux !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:49:03" type="out_open"/>
+      <text>Tu considères trop les Yômu comme une espèce unique !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:53:24" type="out_open"/>
+      <text>Ça va des insectes à des êtres semblables à nous, c'est très varié.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:56:20" type="out_open"/>
+      <text>C'est comparable au groupe des mammifères.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:08:59:03" type="out_open"/>
+      <text>Les humains en font partie,</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:02:03" type="out_open"/>
+      <text>mais eux aussi évaluent vaches et cochons, non ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:04:05" type="out_open"/>
+      <text>Vu de cette manière...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:06:17" type="out_open"/>
+      <text>Ravie d'avoir été comprise.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:11:15" type="out_open"/>
+      <text>Pourquoi cet air contrarié ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:12:14" type="out_open"/>
+      <text>Akihito.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:16:01" type="out_open"/>
+      <text>- Qui est-ce ? - Tu ne la connais pas ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:17:18" type="out_open"/>
+      <text>- C'est... - C'est sale !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:19:09" type="out_open"/>
+      <text>Qu'as-tu encore imaginé ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:21:12" type="out_open"/>
+      <text>- Minable... - N'en rajoute pas !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:26:00" type="out_open"/>
+      <text>Tu la connais, Mitsuki, non ? C'est Mirai Kuriyama.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:29:17" type="out_open"/>
+      <text>Ah, c'est elle.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:31:24" type="out_open"/>
+      <text>- Elle était réelle... - Comment ça ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:35:14" type="out_open"/>
+      <text>Ton pauvre cerveau ne s'affirmant qu'en fuyant la réalité,</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:39:11" type="out_open"/>
+      <text>j'ai cru qu'il avait créé une jolie fille imaginaire</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:42:02" type="out_open"/>
+      <text>qui portait bien les lunettes</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:44:22" type="out_open"/>
+      <text>et qui ponctuait ses phrases en miaulant.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:47:12" type="out_open"/>
+      <text>Comment peux-tu débiter autant de méchancetés ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:50:00" type="out_open"/>
+      <text>Ou concluait-elle plutôt par "lunettes" ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:52:20" type="out_open"/>
+      <text>Oui, lunettes ! Plutôt original comme concept...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:55:05" type="out_open"/>
+      <text>Mais ça reste plausible...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:09:56:21" type="out_open"/>
+      <text>Il va falloir y aller...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:02:07" type="out_open"/>
+      <text>Ai. Pas de changement chez les Yômu, dernièrement ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:04:17" type="out_open"/>
+      <text>Non, rien de particulier.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:06:15" type="out_open"/>
+      <text>Il s'est passé quelque chose ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:09:17" type="out_open"/>
+      <text>En fait, j'en ai rencontré un bien agressif...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:12:06" type="out_open"/>
+      <text>Et toi, Mitsuki, tu ne sais rien ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:13:16" type="out_open"/>
+      <text>Ça ne m'intéresse pas.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:16:09" type="out_open"/>
+      <text>Tu en as encore fait trop, je parie...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:19:07" type="out_open"/>
+      <text>Ne me rends pas coupable de tout !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:25:20" type="out_open"/>
+      <text>- J'y pense, Kuriyama ! - Oui ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:28:10" type="out_open"/>
+      <text>Tu as réfléchi à ma proposition ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:31:20" type="out_open"/>
+      <text>Je comptais l'inviter une fois au club. Je peux ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:34:22" type="out_open"/>
+      <text>Elle n'est inscrite nulle part.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:37:21" type="out_open"/>
+      <text>Ensuite, les Ikaishi ne sont pas légion au lycée.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:41:02" type="out_open"/>
+      <text>- Et elle vient d'emménager... - J'avais déjà refusé.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:46:19" type="out_open"/>
+      <text>Akihito.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:51:11" type="out_open"/>
+      <text>- Petit cochon. - Pourquoi cette conclusion ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:54:20" type="out_open"/>
+      <text>HALL DES ÉLÈVES RÉFECTOIRE</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:10:57:18" type="out_open"/>
+      <text>La voilà !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:04:09" type="out_open"/>
+      <text>Encore des nouilles au bouillon...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:09:20" type="out_open"/>
+      <text>- Kanbara ? - C'est cadeau. Mange.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:14:14" type="out_open"/>
+      <text>- Je n'en ai pas besoin. - Je te le porte ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:19:19" type="out_open"/>
+      <text>S'il te plaît...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:24:06" type="out_open"/>
+      <text>- Je te le rends ! - Mes mains sont prises...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:30:06" type="out_open"/>
+      <text>- Ah, mais non ! - Mon club te déplaît à ce point ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:43:13" type="out_open"/>
+      <text>Tant pis... Commençons par l'autre.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:50:19" type="out_open"/>
+      <text>J'avais bien vu...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:53:00" type="out_open"/>
+      <text>Hiroomi !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:57:07" type="out_open"/>
+      <text>Je suis plus âgé que toi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:11:58:21" type="out_open"/>
+      <text>Un peu de respect.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:04:11" type="out_open"/>
+      <text>Tu as oublié de déployer ta cage la dernière fois !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:06:12" type="out_open"/>
+      <text>J'ai dû appeler les nettoyeurs !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:09:11" type="out_open"/>
+      <text>Je ne me souviens pas avoir promis de le faire.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:11:02" type="out_open"/>
+      <text>Ni de devoir protéger ce lycée.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:14:14" type="out_open"/>
+      <text>- J'ai un truc à te demander. - Je m'en doute.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:18:16" type="out_open"/>
+      <text>Tu ne serais pas venu me voir sinon, Akkey.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:23:02" type="out_open"/>
+      <text>Tu veux que je t'explique pourquoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:26:15" type="out_open"/>
+      <text>C'est à cause de l'opposition Ikaishi/Yômu ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:30:19" type="out_open"/>
+      <text>C'est parce que tu me surnommes comme une vedette déchue !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:32:23" type="out_open"/>
+      <text>Petit coquin, va...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:34:19" type="out_open"/>
+      <text>Toujours à répliquer vivement.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:38:03" type="out_open"/>
+      <text>30 secondes de discussion et je regrette déjà. Excuse-toi !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:40:13" type="out_open"/>
+      <text>Et ? Que veux-tu savoir ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:47:13" type="out_open"/>
+      <text>Je suis tombé sur un Yômu très agressif, hier.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:50:08" type="out_open"/>
+      <text>Une idée de la cause ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:12:59:04" type="out_open"/>
+      <text>Tu t'es encore fourré dans une sale affaire ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:00:19" type="out_open"/>
+      <text>Si c'était le cas ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:03:03" type="out_open"/>
+      <text>Je devais te laisser tranquille.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:06:06" type="out_open"/>
+      <text>Et toi, ne participer à rien.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:08:03" type="out_open"/>
+      <text>Oui, c'était notre promesse...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:11:13" type="out_open"/>
+      <text>Ce n'était pas une promesse, mais un accord d'armistice.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:12:22" type="out_open"/>
+      <text>Hiroomi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:14:11" type="out_open"/>
+      <text>Qu'y a-t-il, Akkey ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:18:02" type="out_open"/>
+      <text>- Tes mains... - J'ai froid aux doigts...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:20:11" type="out_open"/>
+      <text>Et tes aisselles sont exceptionnelles.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:21:22" type="out_open"/>
+      <text>Arrête !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:25:12" type="out_open"/>
+      <text>Ça n'a rien d'étonnant qu'un homme fasse ça à un autre !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:26:14" type="out_open"/>
+      <text>Si, justement !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:30:15" type="out_open"/>
+      <text>Je prône juste la propreté et la chaleur de tes aisselles.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:34:01" type="out_open"/>
+      <text>Ça n'a rien de plaisant ! Et reviens à nos moutons !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:37:02" type="out_open"/>
+      <text>La raison du nombre important de frileuses ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:40:08" type="out_open"/>
+      <text>Ça m'intéresse un peu, mais non ! Je parlais de ce Yômu !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:41:24" type="out_open"/>
+      <text>Pourquoi veux-tu savoir ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:44:03" type="out_open"/>
+      <text>Mitsuki te l'a demandé ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:46:21" type="out_open"/>
+      <text>Non, ça vient de moi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:49:01" type="out_open"/>
+      <text>Dans ce cas...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:52:07" type="out_open"/>
+      <text>je n'ai pas à te répondre.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:13:55:22" type="out_open"/>
+      <text>Autrement dit, tu connais la cause ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:03:20" type="out_open"/>
+      <text>SECONDE 4</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:09:22" type="out_open"/>
+      <text>Elle n'est pas là ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:13:04" type="out_open"/>
+      <text>26 000 yens ? Sérieusement ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:15:17" type="out_open"/>
+      <text>Je te fais une sacrée fleur, tu sais ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:17:19" type="out_open"/>
+      <text>Ah, Kanbara.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:20:06" type="out_open"/>
+      <text>- Bonjour. - Encore toi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:24:13" type="out_open"/>
+      <text>Écoute ça ! Elle ne me propose que 20 000 malgré mes efforts !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:27:20" type="out_open"/>
+      <text>C'est pas beau de mentir.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:30:21" type="out_open"/>
+      <text>Ce Yômu ne devait pas être si belliqueux.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:33:23" type="out_open"/>
+      <text>Tu parles ! Il n'a pas arrêté d'attaquer !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:37:00" type="out_open"/>
+      <text>Ça ne devrait pourtant pas être le cas...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:38:10" type="out_open"/>
+      <text>Oups !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:39:15" type="out_open"/>
+      <text>Allô ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:43:07" type="out_open"/>
+      <text>Excuse-moi. Je me change et je te rejoins.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:46:01" type="out_open"/>
+      <text>Ne dis pas de bêtises !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:49:07" type="out_open"/>
+      <text>Qui oserait porter une culotte en laine à une soirée ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:52:01" type="out_open"/>
+      <text>Toujours aussi enjouée...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:55:10" type="out_open"/>
+      <text>Dis-moi plutôt, Kuriyama n'est pas passée ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:14:57:04" type="out_open"/>
+      <text>Kuriyama ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:01:07" type="out_open"/>
+      <text>Celle dont Ai parlait dans son mail ? Pas encore, non...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:03:02" type="out_open"/>
+      <text>Je vois...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:06:13" type="out_open"/>
+      <text>Au fait, tu as encore changé le champ répulsif ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:08:21" type="out_open"/>
+      <text>Ses effets ont faibli.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:12:04" type="out_open"/>
+      <text>Mais une Ikaishi normale devrait le remarquer, non ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:15:09" type="out_open"/>
+      <text>Difficile de dire si elle est normale, justement...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:24:07" type="out_open"/>
+      <text>C'est au bout de cette pente que se trouve le manoir des Nase ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:27:06" type="out_open"/>
+      <text>Oui, il paraît qu'il est énorme !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:28:22" type="out_open"/>
+      <text>Un problème ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:30:03" type="out_open"/>
+      <text>Non, non...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:31:24" type="out_open"/>
+      <text>Au revoir.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:38:00" type="out_open"/>
+      <text>Impossible de le retrouver...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:40:22" type="out_open"/>
+      <text>Il doit pourtant être dans le coin.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:46:20" type="out_open"/>
+      <text>- Kuriyama... - Oui ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:49:05" type="out_open"/>
+      <text>Mitsuki !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:52:11" type="out_open"/>
+      <text>Suis-moi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:15:54:06" type="out_open"/>
+      <text>Bien...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:04:04" type="out_open"/>
+      <text>- Euh... - Quoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:08:19" type="out_open"/>
+      <text>Mitsuki... Pourquoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:10:00" type="out_open"/>
+      <text>Pourquoi quoi ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:13:10" type="out_open"/>
+      <text>Pourquoi traînes-tu avec Kanbara ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:15:00" type="out_open"/>
+      <text>Eh bien...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:17:10" type="out_open"/>
+      <text>Pour faire simple...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:20:18" type="out_open"/>
+      <text>- je le surveille. - Hein ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:21:21" type="out_open"/>
+      <text>C'est ici.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:23:12" type="out_open"/>
+      <text>STUDIO PHOTO SHINDÔ</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:29:22" type="out_open"/>
+      <text>Elle semble habitée de pensées.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:31:20" type="out_open"/>
+      <text>Tu veux voir ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:35:03" type="out_open"/>
+      <text>C'est une carte postale de ma mère, après tout...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:45:14" type="out_open"/>
+      <text>{\i1}Coucou !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:48:12" type="out_open"/>
+      <text>{\i1}Alors Akkun, tu avais la forme ?{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:49:14" type="out_open"/>
+      <text>{\i1}C'est moi, Yacchan !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:54:23" type="out_open"/>
+      <text>Pourriez-vous oublier ça ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:16:57:06" type="out_open"/>
+      <text>C'était ta mère ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:00:15" type="out_open"/>
+      <text>Exact ! Elle a toujours été un peu excentrique !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:02:23" type="out_open"/>
+      <text>Se mêlant aux élèves, elle levait la main</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:05:09" type="out_open"/>
+      <text>pendant les visites, cette avant-gardiste !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:10:03" type="out_open"/>
+      <text>Akihito. Une personnalité sans égale est un patrimoine prodigieux !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:11:18" type="out_open"/>
+      <text>Depuis quand es-tu là ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:15:17" type="out_open"/>
+      <text>Depuis "Je ne peux pas m'empêcher de sniffer des lunettes</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:18:11" type="out_open"/>
+      <text>de lycéenne insérées dans un sac plastique".</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:19:15" type="out_open"/>
+      <text>J'ai jamais dit ça !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:23:15" type="out_open"/>
+      <text>- C'est cette petite, Kuriyama ? - Oui !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:27:23" type="out_open"/>
+      <text>Ayaka Shindô. Je suis une Yômu, mais ne m'attaque pas, OK ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:31:00" type="out_open"/>
+      <text>Tu tombes à pic.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:34:01" type="out_open"/>
+      <text>Fais évaluer ton Yômu, on verra cette carte après.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:36:08" type="out_open"/>
+      <text>Je veux absolument l'entendre.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:39:07" type="out_open"/>
+      <text>- Pareil. - Mais j'ai ma pudeur, moi aussi !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:43:04" type="out_open"/>
+      <text>Stop. J'avoue, les Yômu-chats sont stupides, néanmoins,</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:45:12" type="out_open"/>
+      <text>on ne doit pas avoir honte de sa mère.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:49:04" type="out_open"/>
+      <text>Minute. Ma mère n'est pas une Yômu, mais une Ikaishi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:51:17" type="out_open"/>
+      <text>C'est mon père le Yômu, bon sang !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:54:15" type="out_open"/>
+      <text>- Et ces oreilles ? - Sûrement des fausses.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:17:58:05" type="out_open"/>
+      <text>- Elles faisaient vraies. - C'est une maniaque...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:00:05" type="out_open"/>
+      <text>Telle mère tel fils.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:04:04" type="out_open"/>
+      <text>C'est bon ! Inutile de tergiverser, finissons-en vite !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:07:13" type="out_open"/>
+      <text>J'adore ce côté viril, Kanbara.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:12:06" type="out_open"/>
+      <text>{\i1}Ce message est important,{\i0} {\i1}je veux que tu l'écoutes en entier.{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:16:06" type="out_open"/>
+      <text>Avant-gardiste au point de gagner un concours d'exhibition...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:18:09" type="out_open"/>
+      <text>Tu arrêtes de parler de ma mère ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:21:19" type="out_open"/>
+      <text>{\i1}Mais avant ça,{\i0} {\i1}est-ce que tu manges bien ?{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:25:07" type="out_open"/>
+      <text>{\i1}Il faut aussi cuisiner parfois !{\i0} {\i1}Sans repas équilibré,{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:27:15" type="out_open"/>
+      <text>{\i1}ton corps en pâtira !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:31:06" type="out_open"/>
+      <text>- Pour l'amour de Dieu... - Akihito.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:33:20" type="out_open"/>
+      <text>- Meurs. - Arrête !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:35:15" type="out_open"/>
+      <text>Et hop...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:38:05" type="out_open"/>
+      <text>{\i1}Ce message important,{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:40:24" type="out_open"/>
+      <text>{\i1}c'est qu'un puissant Yômu{\i0} {\i1}est en approche.{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:43:15" type="out_open"/>
+      <text>{\i1}L'ombre vide,{\i0} {\i1}ça te dit quelque chose ?{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:49:11" type="out_open"/>
+      <text>{\i1}C'est un Yômu{\i0} {\i1}dépouillé de toute substance.{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:52:15" type="out_open"/>
+      <text>{\i1}Tu ne dois absolument pas{\i0} {\i1}t'y frotter !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:55:18" type="out_open"/>
+      <text>{\i1}Vu que tu es un bon garçon,{\i0} {\i1}tu devrais comprendre,{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:18:58:08" type="out_open"/>
+      <text>{\i1}mais évite de t'en approcher !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:01:23" type="out_open"/>
+      <text>{\i1}C'est une promesse{\i0} {\i1}entre toi et moi, Akkun !{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:06:11" type="out_open"/>
+      <text>Une mère à forte poitrine et avec une case en moins, fabuleux.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:08:24" type="out_open"/>
+      <text>Ne me parle plus d'elle,</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:11:05" type="out_open"/>
+      <text>mais plutôt de cette ombre vide...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:14:18" type="out_open"/>
+      <text>C'est bel et bien un Yômu puissant et sans substance.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:17:19" type="out_open"/>
+      <text>Il aurait battu 5 Ikaishi de rang A</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:20:12" type="out_open"/>
+      <text>en moins de 5 minutes, autrefois.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:21:23" type="out_open"/>
+      <text>Des Ikaishi de rang A ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:24:04" type="out_open"/>
+      <text>On fera quoi si ce monstre débarque ici ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:26:12" type="out_open"/>
+      <text>On ne pourra qu'attendre qu'il reparte.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:33:00" type="out_open"/>
+      <text>Aurait-il pu causer la furie de ce Yômu, hier ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:35:01" type="out_open"/>
+      <text>C'est possible, oui.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:39:05" type="out_open"/>
+      <text>Les Yômu de rang inférieur sont particulièrement influençables.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:40:17" type="out_open"/>
+      <text>C'était donc ça...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:43:17" type="out_open"/>
+      <text>Bien, la récréation est terminée.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:45:20" type="out_open"/>
+      <text>On passe à l'expertise ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:49:01" type="out_open"/>
+      <text>- Minute ! Une récréation ? - Tu n'avais pas remarqué ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:19:50:21" type="out_open"/>
+      <text>On ne joue pas avec ça !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:04:03" type="out_open"/>
+      <text>- Tu as ton Yômu ? - Oui !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:09:09" type="out_open"/>
+      <text>S'il vous plaît.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:17:04" type="out_open"/>
+      <text>Voyons voir.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:22:14" type="out_open"/>
+      <text>1000 yens ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:26:00" type="out_open"/>
+      <text>J'ai fait tous ces efforts pour seulement 1000 yens ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:28:16" type="out_open"/>
+      <text>- Eh oui... - C'est grave vexant !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:32:07" type="out_open"/>
+      <text>- Tu parles comme une djeuns ! - N'écoute surtout pas Akihito.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:35:13" type="out_open"/>
+      <text>Consulte-moi plutôt en cas de besoin.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:38:20" type="out_open"/>
+      <text>Tu sais où se trouve le local.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:42:20" type="out_open"/>
+      <text>Elle aussi, elle t'accueille.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:45:19" type="out_open"/>
+      <text>Kanbara.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:48:15" type="out_open"/>
+      <text>Que dirais-tu d'aller manger ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:52:06" type="out_open"/>
+      <text>Votre portion normale !</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:53:19" type="out_open"/>
+      <text>C'est ma récompense ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:57:16" type="out_open"/>
+      <text>Oui, c'est pour m'avoir aidée, dans un certain sens.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:20:59:09" type="out_open"/>
+      <text>Merci...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:01:08" type="out_open"/>
+      <text>Je peux prendre des pickles ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:05:01" type="out_open"/>
+      <text>Contente-toi du gingembre rouge.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:06:11" type="out_open"/>
+      <text>OK, OK.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:11:01" type="out_open"/>
+      <text>Tu m'invites avec la première prime que tu as gagnée depuis ton arrivée.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:13:11" type="out_open"/>
+      <text>Je dois voir ça comme un honneur.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:18:18" type="out_open"/>
+      <text>Kanbara.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:22:16" type="out_open"/>
+      <text>Qu'y a-t-il ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:26:18" type="out_open"/>
+      <text>C'est la dernière fois.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:30:04" type="out_open"/>
+      <text>Ne t'intéresse plus à moi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:34:06" type="out_open"/>
+      <text>Nous sommes différents.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:39:13" type="out_open"/>
+      <text>Je ne pense pas vouloir vivre comme toi.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:45:20" type="out_open"/>
+      <text>Vivre aussi gaiement avec les autres me serait impardonnable.</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:47:14" type="out_open"/>
+      <text>Pourquoi ça ?</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:21:53:09" type="out_open"/>
+      <text>Parce que j'ai tué quelqu'un...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:22:01:06" type="out_open"/>
+      <text>Oui, j'ai tué une personne...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:22:05:11" type="out_open"/>
+      <text>Dans le passé... De mes propres mains...</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:22:12:00" type="out_open"/>
+      <text>Akito Kanbara : KENN Mirai Kuriyama : Risa Taneda</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:22:14:12" type="out_open"/>
+      <text>Mitsuki Nase : Ayako Kawasumi Shizuku Ninomiya : Akeno Watanabe</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:23:29:14" type="out_open"/>
+      <text>{\i1}Tant qu'il y aura des humains,{\i0} {\i1}les Yômu existeront.{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:23:32:20" type="out_open"/>
+      <text>{\i1}On les terrasse{\i0} {\i1}sous prétexte qu'on les voit...{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:23:37:01" type="out_open"/>
+      <text>{\i1}Ne trouves-tu pas{\i0} {\i1}le métier d'Ikaishi funeste ?{\i0}</text>
+    </line>
+    <line role="placeholder" track="1">
+      <lipsync timecode="00:23:38:18" type="out_open"/>
+      <text>{\i1}Kanbara...{\i0}</text>
+    </line>
+  </body>
+</detx>
