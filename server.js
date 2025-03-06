@@ -1,7 +1,7 @@
 const express = require('express');
 const multer = require('multer');
 const { parse } = require('csv-parse');
-const { Builder } = require('xml2js');
+const { create } = require('xmlbuilder2');
 const fs = require('fs');
 const path = require('path');
 
@@ -36,19 +36,33 @@ app.post('/convert', upload.fields([
   try {
     const subtitles = [];
     let isFirstLine = true;
+    let hasData = false;
+
+    const parser = parse({
+      delimiter: ['|'],  // Try multiple common delimiters
+      trim: true,
+      quote: '"',
+      escape: '"',
+      relax_quotes: true,
+      skip_empty_lines: true,
+      relax: true
+    });
+
+    parser.on('error', (err) => {
+      console.error('Error parsing CSV:', err.message);
+    });
+
     fs.createReadStream(subtitleFile.path)
-      .pipe(parse({
-        delimiter: '|',
-        trim: true,
-        quote: '"',
-        escape: '"',
-        relax_quotes: true,
-        skip_empty_lines: true,
-        relax: true
-      }))
+      .pipe(parser)
       .on('data', (row) => {
         if (isFirstLine) {
+          console.log('First row:', row);
           isFirstLine = false;
+          return;
+        }
+
+        // Skip empty rows
+        if (!row.some(cell => cell?.trim())) {
           return;
         }
         function cleanSubtitleText(text) {
@@ -98,48 +112,51 @@ function formatTimecode(timestamp) {
   return `${adjustedHours}:${minutes}:${seconds}:${frames.toString().padStart(2, '0')}`;
 }
 
-function createDetxContent(subtitles, videoPath, audioPath) {
-  const detxObj = {
-    detx: {
-      $: {
-        copyright: 'Chinkel S.A., 2007-2024'
-      },
-      header: [{
-        cappella: [{ $: { version: '3.7.0' } }],
-        title: ['Converted Subtitles'],
-        title2: [''],
-        episode: [{ $: { number: '1' } }],
-        videofile: [{ _: videoPath, $: { timestamp: '01:00:00:00' } }],
-        audiofile: audioPath ? [{ _: audioPath }] : []
-      }],
-      roles: [{
-        role: [{
-          $: {
-            color: '#000000',
-            description: '',
-            gender: 'unknown',
-            id: 'placeholder',
-            name: 'Placeholder'
-          }
-        }]
-      }],
-      body: [{
-        line: subtitles.map(sub => ({
-          $: { role: 'placeholder', track: '1' },
-          lipsync: [
-            { $: { timecode: formatTimecode(sub.start_time), type: 'out_open' } },
-            { text: sub.text },
-            { $: { timecode: formatTimecode(sub.end_time), type: 'out_close' } }
-          ]
-        }))
-      }]
-    }
-  };
+function createDetxContent(subtitles, videoFile, audioFile) {
+  // Use original filenames instead of temporary upload paths
+  const normalizedVideoPath = videoFile.originalname || path.basename(videoFile);
+  const normalizedAudioPath = audioFile ? (audioFile.originalname || path.basename(audioFile)) : '';
 
-  const builder = new Builder({
-    xmldec: { version: '1.0', encoding: 'UTF-8', standalone: 'yes' }
+  const doc = create({ version: '1.0', encoding: 'UTF-8', standalone: 'yes' })
+    .ele('detx', { copyright: 'Chinkel S.A., 2007-2024' })
+      .ele('header')
+        .ele('cappella', { version: '3.7.0' }).up()
+        .ele('title').txt('Converted Subtitles').up()
+        .ele('title2').txt('').up()
+        .ele('episode', { number: '1' }).up()
+        .ele('videofile', { timestamp: '01:00:00:00' }).txt(normalizedVideoPath).up()
+        .ele('audiofile').txt(normalizedAudioPath).up()
+      .up()
+      .ele('roles')
+        .ele('role', {
+          color: '#000000',
+          description: '',
+          gender: 'unknown',
+          id: 'placeholder',
+          name: 'Placeholder'
+        }).up()
+      .up()
+      .ele('body');
+
+  // Add subtitles to the body
+  subtitles.forEach(sub => {
+    doc.ele('line', {
+      role: 'placeholder',
+      track: '1'
+    })
+    .ele('lipsync', {
+      timecode: formatTimecode(sub.start_time),
+      type: 'in_open'
+    }).up()
+    .ele('text').txt(sub.text).up()
+    .ele('lipsync', {
+      timecode: formatTimecode(sub.end_time),
+      type: 'out_close'
+    }).up()
+    .up();
   });
-  return builder.buildObject(detxObj);
+
+  return doc.end({ prettyPrint: true });
 }
 
 const PORT = process.env.PORT || 3000;
