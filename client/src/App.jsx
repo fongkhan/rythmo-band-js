@@ -5,8 +5,8 @@ import './App.css'
 function App() {
   const [files, setFiles] = useState({
     subtitles: null,
-    videoPath: null,
-    audioPath: null
+    videoPath: '',
+    audioPath: ''
   })
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState('')
@@ -20,10 +20,19 @@ function App() {
     setError('')
   }
 
+  const handlePathChange = (e) => {
+    const { name, value } = e.target
+    setFiles(prev => ({
+      ...prev,
+      [name]: value
+    }))
+    setError('')
+  }
+
   const handleSubmit = async (e) => {
     e.preventDefault()
     if (!files.subtitles || !files.videoPath) {
-      setError('Subtitle and video files are required')
+      setError('Subtitle file and video path are required')
       return
     }
 
@@ -58,8 +67,8 @@ function App() {
       // Reset form
       setFiles({
         subtitles: null,
-        videoPath: null,
-        audioPath: null
+        videoPath: '',
+        audioPath: ''
       })
       e.target.reset()
     } catch (err) {
@@ -87,24 +96,26 @@ function App() {
           />
         </div>
         <div className="form-group">
-          <label htmlFor="videoPath">Video File:</label>
+          <label htmlFor="videoPath">Video File Path:</label>
           <input
-            type="file"
+            type="text"
             id="videoPath"
             name="videoPath"
-            accept="video/*"
-            onChange={handleFileChange}
+            value={files.videoPath}
+            onChange={handlePathChange}
+            placeholder="Enter the path to your video file"
             required
           />
         </div>
         <div className="form-group">
-          <label htmlFor="audioPath">Audio File (optional):</label>
+          <label htmlFor="audioPath">Audio File Path (optional):</label>
           <input
-            type="file"
+            type="text"
             id="audioPath"
             name="audioPath"
-            accept="audio/*"
-            onChange={handleFileChange}
+            value={files.audioPath}
+            onChange={handlePathChange}
+            placeholder="Enter the path to your audio file (optional)"
           />
         </div>
         <button type="submit" disabled={loading}>
