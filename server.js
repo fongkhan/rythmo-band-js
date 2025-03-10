@@ -16,21 +16,17 @@ if (!fs.existsSync('uploads')) {
 // Serve static files from the React app
 app.use(express.static(path.join(__dirname, 'client/dist')));
 
-app.post('/convert', upload.fields([
-  { name: 'subtitles', maxCount: 1 },
-  { name: 'videoPath', maxCount: 1 },
-  { name: 'audioPath', maxCount: 1 }
-]), async (req, res) => {
-  if (!req.files || !req.files.subtitles) {
+app.post('/convert', upload.single('subtitles'), async (req, res) => {
+  if (!req.file) {
     return res.status(400).send('Subtitle file is required');
   }
 
-  const subtitleFile = req.files.subtitles[0];
-  const videoFile = req.files.videoPath ? req.files.videoPath[0] : null;
-  const audioFile = req.files.audioPath ? req.files.audioPath[0] : null;
+  const subtitleFile = req.file;
+  const videoPath = req.body.videoPath;
+  const audioPath = req.body.audioPath;
 
-  if (!videoFile) {
-    return res.status(400).send('Video file is required');
+  if (!videoPath) {
+    return res.status(400).send('Video path is required');
   }
 
   try {
@@ -39,7 +35,7 @@ app.post('/convert', upload.fields([
     let hasData = false;
 
     const parser = parse({
-      delimiter: ['|'],  // Try multiple common delimiters
+      delimiter: ['|'],
       trim: true,
       quote: '"',
       escape: '"',
@@ -79,7 +75,7 @@ app.post('/convert', upload.fields([
         }
       })
       .on('end', () => {
-        const detxContent = createDetxContent(subtitles, videoFile.path, audioFile ? audioFile.path : null);
+        const detxContent = createDetxContent(subtitles, videoPath, audioPath);
         const outputPath = `${subtitleFile.path}.detx`;
         
         fs.writeFileSync(outputPath, detxContent);
@@ -112,11 +108,7 @@ function formatTimecode(timestamp) {
   return `${adjustedHours}:${minutes}:${seconds}:${frames.toString().padStart(2, '0')}`;
 }
 
-function createDetxContent(subtitles, videoFile, audioFile) {
-  // Use original filenames instead of temporary upload paths
-  const normalizedVideoPath = videoFile.originalname || path.basename(videoFile);
-  const normalizedAudioPath = audioFile ? (audioFile.originalname || path.basename(audioFile)) : '';
-
+function createDetxContent(subtitles, videoPath, audioPath) {
   const doc = create({ version: '1.0', encoding: 'UTF-8', standalone: 'yes' })
     .ele('detx', { copyright: 'Chinkel S.A., 2007-2024' })
       .ele('header')
@@ -124,8 +116,8 @@ function createDetxContent(subtitles, videoFile, audioFile) {
         .ele('title').txt('Converted Subtitles').up()
         .ele('title2').txt('').up()
         .ele('episode', { number: '1' }).up()
-        .ele('videofile', { timestamp: '01:00:00:00' }).txt(normalizedVideoPath).up()
-        .ele('audiofile').txt(normalizedAudioPath).up()
+        .ele('videofile', { timestamp: '01:00:00:00' }).txt(videoPath).up()
+        .ele('audiofile').txt(audioPath || '').up()
       .up()
       .ele('roles')
         .ele('role', {
