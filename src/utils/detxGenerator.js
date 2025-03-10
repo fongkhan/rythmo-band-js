@@ -13,7 +13,9 @@ function formatTimecode(timestamp) {
   return `${adjustedHours}:${minutes}:${seconds}:${frames.toString().padStart(2, '0')}`;
 }
 
-function createDetxContent(subtitles, videoPath, audioPath) {
+function generateDetx(subtitles) {
+  const videoPath = '';
+  const audioPath = '';
   const doc = create({ version: '1.0', encoding: 'UTF-8', standalone: 'yes' })
     .ele('detx', { copyright: 'Chinkel S.A., 2007-2024' })
       .ele('header')
@@ -42,12 +44,12 @@ function createDetxContent(subtitles, videoPath, audioPath) {
       track: '1'
     })
     .ele('lipsync', {
-      timecode: formatTimecode(sub.start_time),
+      timecode: formatTimecode(sub.startTime),
       type: 'in_open'
     }).up()
     .ele('text').txt(sub.text).up()
     .ele('lipsync', {
-      timecode: formatTimecode(sub.end_time),
+      timecode: formatTimecode(sub.endTime),
       type: 'out_close'
     }).up()
     .up();
@@ -58,5 +60,5 @@ function createDetxContent(subtitles, videoPath, audioPath) {
 
 module.exports = {
   formatTimecode,
-  createDetxContent
+  generateDetx
 };
